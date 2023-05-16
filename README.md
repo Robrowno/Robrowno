@@ -3,14 +3,13 @@
 ### Trainee Software Engineering Consultant with Xander Talent
 
 
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
-
 Welcome to my Github Page!
 ----
+### About Me:
 
 Hi there, my name is Christian! Here's a little "About me" overview:
   - 💻 Completed a Code Institute Bootcamp between February 2022 - February 2023
-  - 🖥️ Currently working with Xander Talent as a Trainee Software Engineering Consultant
+  - 🖥️ Completed an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
   - 🛠️ Have 5 years prior in the automotive industry working with companies such as McLaren Automotive and Mercedes-Benz
   - ✈️ I've lived abroad for 16 years in Russia, Slovakia, Poland, Italy and Japan
   - 🏁 I am an active Rally competitor, competing nationally as a driver in 2022 and a codriver in 2023
