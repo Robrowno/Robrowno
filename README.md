@@ -1,6 +1,8 @@
 # Robrowno // Christian Brown
 
-### Latest Experience: Trainee Software Engineering Consultant with Xander Talent
+### Latest Relevant Experience: Trainee Software Engineering Consultant with Xander Talent
+
+### Currently practising Python and learning React!
 
 
 Welcome to my Github Page!
@@ -54,13 +56,25 @@ Hi there, my name is Christian! Here's a little "About me" overview:
 ## Technology I have experienced:
 <div style="display:inline-block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
  
  </div>
  
 ## Technology I want to learn:
 <div style="display:inline-block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40px/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
- 
- </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40px/>
           
+
+ </div>
+ 
+ ## Currently I am practising:
+ 
+ <div style="display:inline-block">
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=40px/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
+          
+ </div>
