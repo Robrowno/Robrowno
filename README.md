@@ -1,8 +1,10 @@
 # Robrowno // Christian Brown
 
+### BSc Computer Science student at the University of West London
+
 ### Latest Relevant Experience: Trainee Software Engineering Consultant with Xander Talent
 
-### Currently practising Python + Javascript and learning React!
+### Currently practising React/NextJS and Java
 
 
 Welcome to my Github Page!
@@ -10,14 +12,15 @@ Welcome to my Github Page!
 ### About Me:
 
 Hi there, my name is Christian! Here's a little "About me" overview:
+  - 🖥️ '26 BSc Computer Science Student at UWL 
   - 💻 Completed a Code Institute Bootcamp between February 2022 - February 2023
   - 🖥️ Completed an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
   - 🛠️ Have 5 years prior in the automotive industry working with companies such as McLaren Automotive and Mercedes-Benz
   - ✈️ I've lived abroad for 16 years in Russia, Slovakia, Poland, Italy and Japan
-  - 🏁 I am an active Rally competitor, competing nationally as a driver in 2022 and a codriver in 2023
+  - 🏁 I am an active Rally competitor, competing nationally as a driver in 2022 and a codriver in 2023 and onwards
   - ➡️ My other hobbies include 🏋🏻‍♂️going to the gym, 🎸playing bass and 🚗going on long drives in the countryside
   - 🎯 I'm looking to expand my professional software development skills in 2023 by working on new projects, consolidating what I learned in 2022 and learning new skills in 2023
-  - 🎯 My Current goals are to work with Javascript, React/NextJS by the end of this year!
+  - 🎯 My Current goals are to find an internship in 2024 and to further my skills in Java and algorithms/data-structures so I can grind Leetcode 😆
  
 ----
 
