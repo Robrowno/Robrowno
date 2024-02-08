@@ -4,7 +4,7 @@
 
 ### Latest Relevant Experience: Trainee Software Engineering Consultant with Xander Talent
 
-### Currently practising React/NextJS and Java
+### Currently studying towards the goal of becoming a Data Engineer
 
 
 Welcome to my Github Page!
@@ -18,9 +18,9 @@ Hi there, my name is Christian! Here's a little "About me" overview:
   - 🛠️ Have 5 years prior in the automotive industry working with companies such as McLaren Automotive and Mercedes-Benz
   - ✈️ I've lived abroad for 16 years in Russia, Slovakia, Poland, Italy and Japan
   - 🏁 I am an active Rally competitor, competing nationally as a driver in 2022 and a codriver in 2023 and onwards
-  - ➡️ My other hobbies include 🏋🏻‍♂️going to the gym, 🎸playing bass and 🚗going on long drives in the countryside
-  - 🎯 I'm looking to expand my professional software development skills in 2023 by working on new projects, consolidating what I learned in 2022 and learning new skills in 2023
-  - 🎯 My Current goals are to find an internship in 2024 and to further my skills in Java and algorithms/data-structures so I can grind Leetcode 😆
+  - 🎯 I'm looking to expand my professional software development skills in 2024 by working on new projects, consolidating what I learned in 2022/2023 and learning new skills in 2024
+  - 🎯 My Current goals are to find an internship in 2024/25 and to further my skills in Java, Python and algorithms/data-structures so I can grind Leetcode 😆
+  - 🎯 Long Term Goal of becoming a Data Engineer
  
 ----
 
@@ -41,7 +41,7 @@ Hi there, my name is Christian! Here's a little "About me" overview:
 | Rally Blog  | A full-stack blog-style website documenting my rally journey in 2022 and beyond 	| HTML5, CSS3, Javascript & JQuery, Python3.8, Django3.2, Git, Heroku, Cloudinary, Summernote, SENDGRID API  	|
 | Django-Raceway  | A fictional trackday website, where users can book trackdays, tuition or experience packages 	| HTML5, CSS3, Javascript & JQuery, Python3.8, Django3.2, Git, Heroku, AWS S3, Stripe (Stripe API), SENDGRID API, Allauth 	|
 | SummerTrails (C.I Hackathon - 3rd Place!)| A Summer-themed, mobile-first and location/photography-focused application where users can upload photos and pin them to a shared map for other users to see| HTML5, CSS3, Bootstrap 5.2, Javascript, Django 4.2, MapBox API, Django REST framework, PostgreSQL |
-|Rally News| A website which fetches the latest WRC/WRC2/WRC3 news - Coming soon.....| Git, pip3, npm 9.7, HTML5, CSS3, Javascript, Python 3.10 React, Flask 2.3, Selenium, MongoDB|
+|ZenBot (C.I Hackathon - 3rd Place!)| A mental health themed site with a mini chatbot on the main page, using the GPT3.5 Turbo model | Git, HTML, CSS, JS (w/ AJAX), GPT3.5 Turbo, Vercel |
 
 ## Technology Well-Used:
 
@@ -55,34 +55,38 @@ Hi there, my name is Christian! Here's a little "About me" overview:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=40px/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
  
 </div>
 
 ## Technology I have experienced:
 <div style="display:inline-block">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  
  </div>
  
 ## Technology I want to learn:
 <div style="display:inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=40px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
           
  </div>
  
  ## Currently I am practising:
  
  <div style="display:inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40px/>
- 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=40px/>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=40px/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
  </div>
