@@ -11,7 +11,7 @@ Hi there, my name is Christian! Here's a little "About me" overview:
   - 🖥️ '26 BSc Computer Science Student at UWL
   - 🖥️ Attended an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
   - 💻 Completed a Code Institute Diploma in Software Development between February 2022 - February 2023
-  - 🎯 In my Second Year of Uni, Currently working wih C#.NET and Python & frameworks
+  - 🎯 In my Second Year of Uni, Currently working with C#.NET and Python & frameworks
   - 🎯 My Current goals are to build my skills and find an internship in 2024/25
 
  
@@ -43,10 +43,8 @@ Hi there, my name is Christian! Here's a little "About me" overview:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=40px/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=40px/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=40px/>
           
@@ -59,13 +57,12 @@ Hi there, my name is Christian! Here's a little "About me" overview:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=40px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height=40px/>
  
  </div>
  
-## Technology I want to learn:
+## Technology I want to learn more about:
 <div style="display:inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=40px/>
@@ -75,11 +72,9 @@ Hi there, my name is Christian! Here's a little "About me" overview:
  </div>
  
  ## Currently I am practising:
- 
  <div style="display:inline-block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=40px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=40px/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height=40px/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=40px/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=40px/>
           
  </div>
