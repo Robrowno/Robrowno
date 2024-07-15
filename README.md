@@ -2,25 +2,18 @@
 
 ### BSc Computer Science student at the University of West London
 
-### Latest Relevant Experience: Trainee Software Engineering Consultant with Xander Talent
-
-### Currently studying towards the goal of becoming a Data Engineer
-
 
 Welcome to my Github Page!
 ----
 ### About Me:
 
 Hi there, my name is Christian! Here's a little "About me" overview:
-  - 🖥️ '26 BSc Computer Science Student at UWL 
-  - 💻 Completed a Code Institute Bootcamp between February 2022 - February 2023
-  - 🖥️ Completed an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
-  - 🛠️ Have 5 years prior in the automotive industry working with companies such as McLaren Automotive and Mercedes-Benz
-  - ✈️ I've lived abroad for 16 years in Russia, Slovakia, Poland, Italy and Japan
-  - 🏁 I am an active Rally competitor, competing nationally as a driver in 2022 and a codriver in 2023 and onwards
-  - 🎯 I'm looking to expand my professional software development skills in 2024 by working on new projects, consolidating what I learned in 2022/2023 and learning new skills in 2024
-  - 🎯 My Current goals are to find an internship in 2024/25 and to further my skills in Java, Python and algorithms/data-structures so I can grind Leetcode 😆
-  - 🎯 Long Term Goal of becoming a Data Engineer
+  - 🖥️ '26 BSc Computer Science Student at UWL
+  - 🖥️ Attended an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
+  - 💻 Completed a Code Institute Diploma in Software Development between February 2022 - February 2023
+  - 🎯 In my Second Year of Uni, Currently working wih C#.NET and Python & frameworks
+  - 🎯 My Current goals are to build my skills and find an internship in 2024/25
+
  
 ----
 
