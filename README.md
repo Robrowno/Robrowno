@@ -8,11 +8,12 @@ Welcome to my Github Page!
 ### About Me:
 
 Hi there, my name is Christian! Here's a little "About me" overview:
-  - 🖥️ '26 BSc Computer Science Student at UWL
+  - 🖥️ BSc Computer Science Student at UWL
   - 🖥️ Attended an Academy in London working with Xander Talent as a Trainee Software Engineering Consultant
   - 💻 Completed a Code Institute Diploma in Software Development between February 2022 - February 2023
-  - 🎯 In my Second Year of Uni, Currently working with C#.NET and Python & frameworks
-  - 🎯 My Current goals are to build my skills and find an internship in 2024/25
+  - 🛠️ Prior 5+ year career in the automotive industry, working for companies such as Mercedes-Benz, Mclaren Automotive and Global Motoring Hub Ltd
+  - 🎯 In my Second Year of Uni, Currently working with C#.NET/Blazor
+  - 🎯 Will be starting a placement year in 2025...
 
  
 ----
